@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SanD204
 - 👀 I’m interested in App Developing/UI Developing.
 - 🌱 I’m currently learning Languages Like C,C++,Java.
+- 👀 I have a good knowleadge of python and look0ing forward on projects
 - 💞️ I’m looking to get a miniature project to gain experience.
 - 📫 How to reach me just email :- sanyogdani1967@gmail.com
 
