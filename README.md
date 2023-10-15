@@ -1,4 +1,4 @@
-![image](https://github.com/SanD204/SanD204/assets/113448326/07265e1a-6db5-404c-af84-3efa5587ac7f)- 👋 Hi, I’m @SanD204
+-👋 Hi, I’m @SanD204
 - 👀 I’m interested in App Developing/UI Developing.
 - 🌱 I’m currently learning Languages Like C,C++,Java.
 - 👀 I have a good knowleadge of python and looking forward on projects
