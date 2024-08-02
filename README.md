@@ -5,8 +5,9 @@
 - 💞️ I’m looking to get a miniature project to gain experience.
 - 📫 How to reach me just email :- sanyogdani1967@gmail.com
 - CheckOut My Portfolio - https://san04.000webhostapp.com/
-- 
-<img width="407" alt="image" src="https://github.com/user-attachments/assets/eeb47d7b-4c16-4c56-b14b-5816c2bbe7f9">
+- Connect with Me :- https://www.linkedin.com/in/sanyog-dani-3936a624b/
+  
+                       <img width="407" alt="image" src="https://github.com/user-attachments/assets/eeb47d7b-4c16-4c56-b14b-5816c2bbe7f9">
 
 
 
