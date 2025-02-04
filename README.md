@@ -1,7 +1,6 @@
 # 🌟 Sanyog Dani
 
 📧 **Email:** sanyogdani1967@gmail.com  
-📱 **Phone:** 9301296145  
 📍 **Location:** Chennai, India  
 🐙 **GitHub:** [SanD204](https://github.com/SanD204)  
 🔗 **LinkedIn:** [Sanyog Dani](https://www.linkedin.com/in/sanyog-dani-3936a624b/)
