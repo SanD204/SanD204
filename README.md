@@ -28,12 +28,6 @@ Hi there! 👋 I'm Sanyog Dani, a passionate and innovative tech enthusiast curr
 - 🧑‍💻 Leading the creation of **NoteShare**, a game-changing app for effortless handwritten note sharing.
 - 📈 Driving a **60% boost in user engagement**, inspired by top-notch industry solutions.
 
-### 🔐 Palo Alto CyberSecurity Virtual Internship (Jul 2024 – Sep 2024)
-
-### 🤖 Google Android Developer Virtual Internship (Apr 2024 – Jun 2024)
-
-### ☁️ AWS Cloud Virtual Internship (Jan 2024 – Mar 2024)
-
 ---
 
 ## 💡 Projects
