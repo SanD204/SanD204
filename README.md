@@ -1,13 +1,57 @@
--👋 Hi, I’m @SanD204
-- 👀 I’m interested in App Developing/UI Developing.
-- 🌱 I’m currently learning Languages Like C,C++,Java.
-- 👀 I have a good knowleadge of python and looking forward on projects
-- 💞️ I’m looking to get a miniature project to gain experience.
-- 📫 How to reach me just email :- sanyogdani1967@gmail.com
-- CheckOut My Portfolio - https://san04.000webhostapp.com/
-- Connect with Me :- https://www.linkedin.com/in/sanyog-dani-3936a624b/
-  
-     <img width="407" alt="image" src="https://github.com/user-attachments/assets/eeb47d7b-4c16-4c56-b14b-5816c2bbe7f9">
+Sanyog Dani
+👨‍💻 About Me
+Computer Science student at SRM Institute of Science & Technology with a passion for iOS development, machine learning, and cloud technologies.
+🎓 Education
+
+B.Tech in Computer Science & Information Technology
+
+SRM Institute of Science & Technology (2026)
+CGPA: 9.0
+
+
+
+🚀 Professional Experience
+Apple & Infosys iOS Student Developer
+
+Developing NoteShare, an innovative iOS application for student note sharing
+Collaborating with industry experts to enhance development skills
+
+💻 Projects
+NoteShare (iOS App)
+
+Seamless note sharing and organization platform
+End-to-end development in Swift with AI-driven features
+
+Deepfake Detection System
+
+Machine learning model to detect video manipulations
+Addresses misinformation and privacy risks
+
+Price Comparison Website
+
+Web scraping using Python, Beautiful Soup
+Real-time price tracking across multiple websites
+
+🏆 Achievements
+
+Grand Finalist at Navonmesh '24 National Level Hackathon
+Selected among top 29 teams from 1550+ national entries
+
+🛠 Skills
+Languages
+Python, C++, Swift, Java, MySQL, HTML/CSS
+Tools & Frameworks
+AWS Cloud, Firebase, SwiftUI, UIKit, PyTorch, TensorFlow, Keras
+📜 Certifications
+
+Oracle Cloud Infrastructure Foundations Associate
+Fortinet Cybersecurity Associate
+Google Android Development Certification
+
+📫 Contact
+
+Email: sanyogdani1967@gmail.com
+Location: Chennai, India
 
 
 
