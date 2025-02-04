@@ -1,65 +1,81 @@
-Sanyog Dani
-👨‍💻 About Me
-Computer Science student at SRM Institute of Science & Technology with a passion for iOS development, machine learning, and cloud technologies.
-🎓 Education
+# 🌟 Sanyog Dani
 
-B.Tech in Computer Science & Information Technology
+📧 **Email:** sanyogdani1967@gmail.com  
+📱 **Phone:** 9301296145  
+📍 **Location:** Chennai, India  
+🐙 **GitHub:** [SanD204](https://github.com/SanD204)  
+🔗 **LinkedIn:** [Sanyog Dani](https://www.linkedin.com/in/sanyog-dani-3936a624b/)
 
-SRM Institute of Science & Technology (2026)
-CGPA: 9.0
+---
 
+## 🚀 About Me
+Hi there! 👋 I'm Sanyog Dani, a passionate and innovative tech enthusiast currently pursuing my BTech in Computer Science at SRMIST. Whether it's building intuitive apps, detecting deepfakes, or optimizing cloud solutions, I thrive on solving real-world problems with technology.
 
+---
 
-🚀 Professional Experience
-Apple & Infosys iOS Student Developer
+## 🎓 Education
+- 🎓 **BTech in Computer Science with Information Technology**  
+  SRM Institute of Science & Technology (Chennai, India)  
+  🎯 **CGPA:** 9 (Expected Graduation: 2026)
 
-Developing NoteShare, an innovative iOS application for student note sharing
-Collaborating with industry experts to enhance development skills
+- 🏫 **Class 10 & 12:** Krishna Public School (Bhilai, India)
 
-💻 Projects
-NoteShare (iOS App)
+---
 
-Seamless note sharing and organization platform
-End-to-end development in Swift with AI-driven features
+## 💼 Professional Experience
 
-Deepfake Detection System
+### 🍏 Apple & Infosys iOS Student Developer (Aug 2024 – Present)
+- 🚀 Collaborating with industry experts to master iOS development.
+- 🧑‍💻 Leading the creation of **NoteShare**, a game-changing app for effortless handwritten note sharing.
+- 📈 Driving a **60% boost in user engagement**, inspired by top-notch industry solutions.
 
-Machine learning model to detect video manipulations
-Addresses misinformation and privacy risks
+### 🔐 Palo Alto CyberSecurity Virtual Internship (Jul 2024 – Sep 2024)
 
-Price Comparison Website
+### 🤖 Google Android Developer Virtual Internship (Apr 2024 – Jun 2024)
 
-Web scraping using Python, Beautiful Soup
-Real-time price tracking across multiple websites
+### ☁️ AWS Cloud Virtual Internship (Jan 2024 – Mar 2024)
 
-🏆 Achievements
+---
 
-Grand Finalist at Navonmesh '24 National Level Hackathon
-Selected among top 29 teams from 1550+ national entries
+## 💡 Projects
 
-🛠 Skills
-Languages
-Python, C++, Swift, Java, MySQL, HTML/CSS
-Tools & Frameworks
-AWS Cloud, Firebase, SwiftUI, UIKit, PyTorch, TensorFlow, Keras
-📜 Certifications
+### 📘 [NoteShare](https://github.com/SanD204/NoteShare)
+- An intuitive iOS app designed for students to seamlessly **upload, share, and organize handwritten notes**.
+- 💡 Focused on fostering collaboration and simplifying study workflows.
+- 🏗️ Developed in Swift with end-to-end UI/UX design and optimization.
 
-Oracle Cloud Infrastructure Foundations Associate
-Fortinet Cybersecurity Associate
-Google Android Development Certification
+### 🎥 [Deepfake Detection System](https://github.com/SanD204/DeepFaked-Video-Detection)
+- 🔍 Created a machine learning model to **detect deepfake videos** by spotting subtle inconsistencies.
+- 🛡️ Tackled risks like misinformation and identity theft.
 
-📫 Contact
+### 🛍️ [Price Comparison Website](https://github.com/SanD204/Price-Comparison-Website-using-web-scraping)
+- 🕵️ Built a website to **scrape real-time prices** from multiple sources.
+- 💻 Utilized Python's Beautiful Soup, Requests, and MySQL.
 
-Email: sanyogdani1967@gmail.com
-Location: Chennai, India
+---
 
+## 🏅 Certifications
+- 📜 [Oracle Cloud Infrastructure Certified Foundations Associate](https://github.com/SanD204/My-certificates/blob/main/Global%20Certificate/Oracle/eCertificate.pdf)
+- 🔐 [Fortinet Certified Associate in Cybersecurity](https://github.com/SanD204/My-certificates/blob/main/Global%20Certificate/Fortinet/Fortinet_Certified_Associate_in_Cybersecurity.pdf)
+- 💻 [NPTEL Programming in Java](https://github.com/SanD204/My-certificates/blob/main/NPTEL/Programming%20In%20Java.pdf)
+- 🖥️ [NPTEL Computer Architecture](https://github.com/SanD204/My-certificates/blob/main/NPTEL/Computer%20Architecture.pdf)
+- 📱 [Google for Education: Android Development](https://github.com/SanD204/My-certificates/blob/main/AICTE/GOOGLE%20ANDROID%20DEVELOPMENT%20INTERNSHIP.pdf)
 
+---
 
+## 🛠️ Skills
+- **Languages:** Python, C++, Swift, Java, MySQL, HTML/CSS  
+- **Frameworks & Tools:** AWS Cloud, Firebase, SwiftUI, UIKit, PyTorch, TensorFlow, Keras, NumPy
 
+---
 
+## 🏆 Achievements
+- 🥇 **Grand Finalist at Navonmesh '24 National Hackathon**  
+  - Among top 29 teams from **1550+ national entries**.  
+  - Developed a **deepfake detection system** using machine learning and REST APIs.  
+  - Earned recognition from experts including **Nitin Sharma (India Head, Qualcomm)**.
 
+---
 
-<!---
-SanD204/SanD204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎉 **Thanks for visiting!** Let’s connect and create something amazing together! 🌐
+
