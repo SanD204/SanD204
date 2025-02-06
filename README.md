@@ -37,13 +37,14 @@ Hi there! 👋 I'm Sanyog Dani, a passionate and innovative tech enthusiast curr
 - 💡 Focused on fostering collaboration and simplifying study workflows.
 - 🏗️ Developed in Swift with end-to-end UI/UX design and optimization.
 
-### 🎥 [Deepfake Detection System](https://github.com/SanD204/DeepFaked-Video-Detection)
-- 🔍 Created a machine learning model to **detect deepfake videos** by spotting subtle inconsistencies.
-- 🛡️ Tackled risks like misinformation and identity theft.
-
 ### 🛍️ [Price Comparison Website](https://github.com/SanD204/Price-Comparison-Website-using-web-scraping)
 - 🕵️ Built a website to **scrape real-time prices** from multiple sources.
 - 💻 Utilized Python's Beautiful Soup, Requests, and MySQL.
+
+### 🎥 [Swastha Yoga App](https://github.com/SanD204/Swastha-Web-App-for-Yoga)
+- 🔍 Developed a user-friendly web application offering guided yoga sessions, customizable routines, posture tips and more.
+- 🛡️ Focused on delivering a seamless and engaging experience with simplicity and user-centric design to support holistic well-being.
+
 
 ---
 
